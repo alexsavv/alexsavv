@@ -1,7 +1,7 @@
 
 ### Digital-Cv
 
-PERSONAL DETAILS
+PERSONAL DETAILS <br>
 
 <b>Date of Birth</b> : 3 May 1995 <br>
 <b>Address</b> : Teukroy 25, 18950, Ampelakia, Salamina, Attiki, Greece <br>
@@ -12,7 +12,7 @@ PERSONAL DETAILS
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
 <hr>
-EDUCATION
+EDUCATION <br>
 
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
 Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” <br>
@@ -33,7 +33,7 @@ Main projects developed during the bachelor studies:
   * Android Framework for downloading play store apps
 
 <hr>
-SKILLS AND COMPETENCIES
+SKILLS AND COMPETENCIES <br>
 
 <b> Programming languages and databases: </b>
   * C, Java, Python (Excellent Knowledge)
@@ -58,7 +58,7 @@ SKILLS AND COMPETENCIES
   * English (proficient knowledge in oral and written)
 
 <hr>
-PERSONAL TRAITS AND SKILLS
+PERSONAL TRAITS AND SKILLS <br>
   
 Teamwork: Cooperating with other students and having an excellent ability adapting to a competitive
 multicultural environment
@@ -76,7 +76,7 @@ Written and oral communications: Organising and communicating ideas/results effe
 presentations to small and large groups, writing reports
 
 <hr>
-HOBBIES AND INTERESTS
+HOBBIES AND INTERESTS <br>
   * Basketball
   * Swimming
   * Football
