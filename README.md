@@ -33,6 +33,7 @@ Main projects developed during the bachelor studies:
 
 <hr>
 <h3>SKILLS AND COMPETENCIES</h3> <br>
+
 <b> Programming languages and databases: </b>
   * C, Java, Python (Excellent Knowledge)
   * Php ,Html, Cascading Style Sheets(CSS), JavaScript (Excellent Knowledge)
