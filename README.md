@@ -11,6 +11,7 @@ PERSONAL DETAILS
 <b>Mobile</b>: (+30)6978419667 <br>
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
+<hr>
 EDUCATION
 
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
@@ -31,6 +32,7 @@ Main projects developed during the bachelor studies:
   * Stratego game implementation in Java
   * Android Framework for downloading play store apps
 
+<hr>
 SKILLS AND COMPETENCIES
 
 <b> Programming languages and databases: </b>
@@ -55,6 +57,7 @@ SKILLS AND COMPETENCIES
   * Greek (mother language)
   * English (proficient knowledge in oral and written)
 
+<hr>
 PERSONAL TRAITS AND SKILLS
   
 Teamwork: Cooperating with other students and having an excellent ability adapting to a competitive
@@ -72,12 +75,15 @@ motivated and responsible, special attention to detail, willing to learn new ski
 Written and oral communications: Organising and communicating ideas/results effectively in oral
 presentations to small and large groups, writing reports
 
+<hr>
 HOBBIES AND INTERESTS
   * Basketball
   * Swimming
   * Football
 
+<hr>
 REFERENCES <br>
+
 <b> Dr. Sotiris Ioannidis </b> <br>
 Principal Researcher at the Institute of Computer Science, FORTH, Nikolaou Plastira 100, Vassilika <br>
 Vouton, P.O Box 1385, GR-70013 Heraklion, Crete, Greece, <br>
