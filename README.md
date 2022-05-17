@@ -58,7 +58,7 @@ Main projects developed during the bachelor studies:
 
 <hr>
 <h3>PERSONAL TRAITS AND SKILLS</h3> <br>
-<u>Teamwork</u>: Cooperating with other students and having an excellent ability adapting to a competitive
+Teamwork: Cooperating with other students and having an excellent ability adapting to a competitive
 multicultural environment
 
 Analysis and Problem solving: Spotting problems, identifying possible causes and coming up with
