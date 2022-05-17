@@ -74,10 +74,10 @@ presentations to small and large groups, writing reports
 
 <hr>
 
-<h3>HOBBIES AND INTERESTS</h3>
- * Basketball
- * Swimming
- * Football
+<h3>HOBBIES AND INTERESTS</h3> <br>
+ Basketball <br>
+ Swimming <br>
+ Football <br>
 
 <hr>
 <h3>REFERENCES</h3>
