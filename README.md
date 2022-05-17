@@ -3,13 +3,13 @@
 
 PERSONAL DETAILS
 
-Date of Birth: 3 May 1995
-Address: Teukroy 25, 18950, Ampelakia, Salamina, Attiki, Greece
-Gender: Male
-Nationality: Greek
-Marital Status: Single
-Mobile: (+30)6978419667
-e-mail: alexandros_savvopoulos@outlook.com
+Date of Birth: 3 May 1995 <br>
+Address: Teukroy 25, 18950, Ampelakia, Salamina, Attiki, Greece <br>
+Gender: Male <br>
+Nationality: Greek <br>
+Marital Status: Single <br>
+Mobile: (+30)6978419667 <br>
+e-mail: alexandros_savvopoulos@outlook.com <br>
 
 EDUCATION
 
@@ -78,7 +78,7 @@ HOBBIES AND INTERESTS
   * Football
 
 REFERENCES
-Dr. Sotiris Ioannidis
-Principal Researcher at the Institute of Computer Science, FORTH, Nikolaou Plastira 100, Vassilika
-Vouton, P.O Box 1385, GR-70013 Heraklion, Crete, Greece,
-Phone: +30 2810 391945, Fax: +30 2810 391601, E-Mail: sotiris@ics.forth.gr
+Dr. Sotiris Ioannidis <br>
+Principal Researcher at the Institute of Computer Science, FORTH, Nikolaou Plastira 100, Vassilika <br>
+Vouton, P.O Box 1385, GR-70013 Heraklion, Crete, Greece, <br>
+Phone: +30 2810 391945, Fax: +30 2810 391601, E-Mail: sotiris@ics.forth.gr <br>
