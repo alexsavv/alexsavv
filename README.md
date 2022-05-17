@@ -21,6 +21,8 @@ Main projects developed during the master studies:
   * Counting Measure Analysis in Snort (Network Intrusion Detection & Prevention System) 
   * Database analysis with machine learning in Scala
 
+<br>
+
 <b> 09/2013 – 08/2018: B.Sc. (Hons) Degree in Computer Science (6.79 /10) </b> <br>
 Title of final year ́s Project: “Development tools for mobile security”, Supervisor: Dr. Sotiris Ioannidis,
 University of Crete, Department of Computer Science
@@ -56,19 +58,19 @@ Main projects developed during the bachelor studies:
 
 <hr>
 <h3>PERSONAL TRAITS AND SKILLS</h3> <br>
-<u>Teamwork</u>: Cooperating with other students and having an excellent ability adapting to a competitive
+<p><u>Teamwork</u></p>: Cooperating with other students and having an excellent ability adapting to a competitive
 multicultural environment
 
-<u>Analysis and Problem solving</u>: Spotting problems, identifying possible causes and coming up with
+<p><u>Analysis and Problem solving</u></p>: Spotting problems, identifying possible causes and coming up with
 solutions in order to make the programmes run effectively
 
-<u>Project management and organization</u>: Identifying and clarifying goals/tasks that need to be
+<p><u>Project management and organization</u></p>: Identifying and clarifying goals/tasks that need to be
 accomplished in a realistic timeline
 
-<u>Self-Management</u>: Working effectively under pressure and meeting deadlines, independent, self-
+<p><u>Self-Management</u></p>: Working effectively under pressure and meeting deadlines, independent, self-
 motivated and responsible, special attention to detail, willing to learn new skills
 
-<u>Written and oral communications</u>: Organising and communicating ideas/results effectively in oral
+<p><u>Written and oral communications</u></p>: Organising and communicating ideas/results effectively in oral
 presentations to small and large groups, writing reports
 
 <hr>
