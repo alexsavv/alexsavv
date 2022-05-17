@@ -15,7 +15,7 @@
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
 Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” <br>
 Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science <br>
-Main projects developed during the master studies:
+Main projects developed during the master studies: <br>
   * Security Header Policies module implementation to XDriver framework
   * Comparison Selenium with XDriver framework
   * Counting Measure Analysis in Snort (Network Intrusion Detection & Prevention System) 
@@ -24,8 +24,7 @@ Main projects developed during the master studies:
 <br><br>
 
 <b> 09/2013 – 08/2018: B.Sc. (Hons) Degree in Computer Science (6.79 /10) </b> <br>
-Title of final year ́s Project: “Development tools for mobile security”, Supervisor: Dr. Sotiris Ioannidis,
-University of Crete, Department of Computer Science
+Title of final year ́s Project: “Development tools for mobile security”, Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science
 
 Main projects developed during the bachelor studies: 
   * Design client-side and server-side architecture in JavaScript, Java Servlets and SQL Database
