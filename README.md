@@ -1,4 +1,5 @@
-                                      <h1> ALEXANDROS SAVVOPOULOS </h1>
+<h3>ALEXANDROS SAVVOPOULOS</h3><br><br>
+<hr>
 
 <h3>PERSONAL DETAILS</h3> <br>
 <b>Date of Birth</b> : 3 May 1995 <br>
