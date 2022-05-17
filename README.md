@@ -77,9 +77,9 @@ presentations to small and large groups, writing reports
 
 <hr>
 HOBBIES AND INTERESTS <br>
-  * Basketball
-  * Swimming
-  * Football
+ * Basketball
+ * Swimming
+ * Football
 
 <hr>
 REFERENCES <br>
