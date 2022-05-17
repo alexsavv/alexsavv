@@ -1,7 +1,7 @@
 
 ### Digital-Cv
 
-<h3>PERSONAL DETAILS</h3>
+<h3>PERSONAL DETAILS</h3> <br>
 <b>Date of Birth</b> : 3 May 1995 <br>
 <b>Address</b> : Teukroy 25, 18950, Ampelakia, Salamina, Attiki, Greece <br>
 <b>Gender</b>: Male <br>
@@ -11,7 +11,7 @@
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
 <hr>
-<h3>EDUCATION</h3>
+<h3>EDUCATION</h3> <br>
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
 Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” <br>
 Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science <br>
@@ -31,7 +31,7 @@ Main projects developed during the bachelor studies:
   * Android Framework for downloading play store apps
 
 <hr>
-<h3>SKILLS AND COMPETENCIES</h3>
+<h3>SKILLS AND COMPETENCIES</h3> <br>
 <b> Programming languages and databases: </b>
   * C, Java, Python (Excellent Knowledge)
   * Php ,Html, Cascading Style Sheets(CSS), JavaScript (Excellent Knowledge)
@@ -55,7 +55,7 @@ Main projects developed during the bachelor studies:
   * English (proficient knowledge in oral and written)
 
 <hr>
-<h3>PERSONAL TRAITS AND SKILLS</h3>
+<h3>PERSONAL TRAITS AND SKILLS</h3> <br>
 <u>Teamwork</u>: Cooperating with other students and having an excellent ability adapting to a competitive
 multicultural environment
 
@@ -72,10 +72,10 @@ motivated and responsible, special attention to detail, willing to learn new ski
 presentations to small and large groups, writing reports
 
 <hr>
-<h3>HOBBIES AND INTERESTS</h3>
- * Basketball <br>
- * Swimming <br>
- * Football <br>
+<h3>HOBBIES AND INTERESTS</h3> <br>
+ * Basketball
+ * Swimming
+ * Football
 
 <hr>
 <h3>REFERENCES</h3>
