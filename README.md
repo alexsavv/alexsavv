@@ -58,19 +58,19 @@ Main projects developed during the bachelor studies:
 
 <hr>
 <h3>PERSONAL TRAITS AND SKILLS</h3> <br>
-<p><u>Teamwork</u></p>: Cooperating with other students and having an excellent ability adapting to a competitive
+Teamwork: Cooperating with other students and having an excellent ability adapting to a competitive
 multicultural environment
 
-<p><u>Analysis and Problem solving</u></p>: Spotting problems, identifying possible causes and coming up with
+Analysis and Problem solving: Spotting problems, identifying possible causes and coming up with
 solutions in order to make the programmes run effectively
 
-<p><u>Project management and organization</u></p>: Identifying and clarifying goals/tasks that need to be
+Project management and organization: Identifying and clarifying goals/tasks that need to be
 accomplished in a realistic timeline
 
-<p><u>Self-Management</u></p>: Working effectively under pressure and meeting deadlines, independent, self-
+Self-Management: Working effectively under pressure and meeting deadlines, independent, self-
 motivated and responsible, special attention to detail, willing to learn new skills
 
-<p><u>Written and oral communications</u></p>: Organising and communicating ideas/results effectively in oral
+Written and oral communications: Organising and communicating ideas/results effectively in oral
 presentations to small and large groups, writing reports
 
 <hr>
