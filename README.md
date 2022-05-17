@@ -13,7 +13,7 @@
 <hr>
 <h3>EDUCATION</h3> <br>
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
-Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science <br>
+Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science <br><br>
 
 Main projects developed during the master studies:
  * Security Header Policies module implementation to XDriver framework
