@@ -14,11 +14,12 @@
 <h3>EDUCATION</h3> <br>
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
 Title of Master thesis: “A XDriver Security Oriented Module for the Evaluation of Security Header Policies” Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science <br>
-Main projects developed during the master studies: <br>
- * Security Header Policies module implementation to XDriver framework <br>
- * Comparison Selenium with XDriver framework <br>
- * Counting Measure Analysis in Snort (Network Intrusion Detection & Prevention System) <br> 
- * Database analysis with machine learning in Scala <br>
+
+Main projects developed during the master studies:
+ * Security Header Policies module implementation to XDriver framework
+ * Comparison Selenium with XDriver framework
+ * Counting Measure Analysis in Snort (Network Intrusion Detection & Prevention System)
+ * Database analysis with machine learning in Scala
 
 <br><br>
 
