@@ -21,7 +21,7 @@ Main projects developed during the master studies:
  * Counting Measure Analysis in Snort (Network Intrusion Detection & Prevention System)
  * Database analysis with machine learning in Scala
 
-<br><br>
+<br>
 
 <b> 09/2013 – 08/2018: B.Sc. (Hons) Degree in Computer Science (6.79 /10) </b> <br>
 Title of final year ́s Project: “Development tools for mobile security”, Supervisor: Dr. Sotiris Ioannidis, University of Crete, Department of Computer Science
@@ -73,10 +73,11 @@ Written and oral communications: Organising and communicating ideas/results effe
 presentations to small and large groups, writing reports
 
 <hr>
-<h3>HOBBIES AND INTERESTS</h3> <br>
- Basketball <br>
- Swimming <br>
- Football <br>
+
+<h3>HOBBIES AND INTERESTS</h3>
+ * Basketball
+ * Swimming
+ * Football
 
 <hr>
 <h3>REFERENCES</h3>
