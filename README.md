@@ -10,6 +10,8 @@
 <b>Mobile</b>: (+30)6978419667 <br>
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
+<hr>
+
 <h3>MILITARY SERVICE</h3> <br>
 <b> 08/2021 – now: Front-end Web Developer </b> <br>
 Implementation of an Electron web app using JavaScript, HTML, CSS, bootstrap, Node.js and automation of parameterization processes using Bash Scripting, for the purpose of maritime surveillance systems, Hellenic Navy, Surveillance Systems Department of the Software Development and Maintenance Directorate.
@@ -49,7 +51,7 @@ Main projects developed during the bachelor studies:
   * Selenium Test Automation, XDriver Automation Framework
   * Android Studio, Android Debug Bridge
   * Wireshark, TCPDUMP, MITMProxy , Snort(Network Intrusion Detection and Prevention System)
-  * Docker Container, Electron.js, bootstrap, Node.js, WordPress, Flask
+  * Docker Container, Electron.js, Bootstrap, Node.js, WordPress, Flask
 
 <b> Familiar programming knowledge: </b>
   * Lo-Fi and Hi-Fi Design Tools
