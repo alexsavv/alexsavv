@@ -42,7 +42,7 @@ Main projects developed during the bachelor studies:
 
 <b> Programming languages and databases: </b>
   * C, Java, Python
-  * Php ,Html, Cascading Style Sheets(CSS), JavaScript, JQuery
+  * Php ,Html, Cascading Style Sheets(CSS), JavaScript, jQuery
   * SQL, MongoDb
   * Bash Scripting Language, Scala-Programming-Language
   * DynamoDb
