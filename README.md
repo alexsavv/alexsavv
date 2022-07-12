@@ -10,6 +10,10 @@
 <b>Mobile</b>: (+30)6978419667 <br>
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
+<h3>MILITARY SERVICE</h3> <br>
+<b> 08/2021 – now: Front-end Web Developer </b> <br>
+Implementation of an Electron web app using JavaScript, HTML, CSS, bootstrap, Node.js and automation of parameterization processes using Bash Scripting, for the purpose of maritime surveillance systems, Hellenic Navy, Surveillance Systems Department of the Software Development and Maintenance Directorate.
+
 <hr>
 <h3>EDUCATION</h3> <br>
 <b> 09/2018 – 07/2021: M.Sc. in Distributed Computing System and Human Computer Interaction (8.96/10) </b> <br>
@@ -35,22 +39,22 @@ Main projects developed during the bachelor studies:
 <h3>SKILLS AND COMPETENCIES</h3> <br>
 
 <b> Programming languages and databases: </b>
-  * C, Java, Python (Excellent Knowledge)
-  * Php ,Html, Cascading Style Sheets(CSS), JavaScript (Excellent Knowledge)
-  * SQL, MongoDb (Excellent Knowledge)
-  * Bash Scripting Language, Scala-Programming-Language (Excellent Knowledge)
-  * DynamoDb (basic Knowledge)
+  * C, Java, Python
+  * Php ,Html, Cascading Style Sheets(CSS), JavaScript, JQuery
+  * SQL, MongoDb
+  * Bash Scripting Language, Scala-Programming-Language
+  * DynamoDb
 
 <b> Software and tools: </b>
-  * Selenium Test Automation, XDriver Automation Framework (Excellent Knowledge)
+  * Selenium Test Automation, XDriver Automation Framework
   * Android Studio, Android Debug Bridge
   * Wireshark, TCPDUMP, MITMProxy , Snort(Network Intrusion Detection and Prevention System)
-  * Docker Container, Electron.js, WordPress, Flask (basic Knowledge)
+  * Docker Container, Electron.js, bootstrap, Node.js, WordPress, Flask
 
 <b> Familiar programming knowledge: </b>
   * Lo-Fi and Hi-Fi Design Tools
   * Git, LaTex and MicrosoftOffice (Word,Excel,Power Point)
-  * Excellent theoretical knowledge on security (Cryptography, Honeypots, Firewall)
+  * Theoretical knowledge on security (Cryptography, Honeypots, Firewall)
 
 <b> Languages: </b>
   * Greek (mother language)
