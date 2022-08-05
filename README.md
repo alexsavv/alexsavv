@@ -8,13 +8,15 @@
 <b>Nationality</b>: Greek <br>
 <b>Marital Status</b>: Single <br>
 <b>Mobile</b>: (+30)6978419667 <br>
+<b>GitHub:<b> https://github.com/alexsavv <br>
+<b>LinkedIn:<b> linkedin.com/in/alexandros-savvopoulos-659973229 <br>
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
 
 <hr>
 
 <h3>MILITARY SERVICE</h3> <br>
-<b> 08/2021 – now: Front-end Web Developer </b> <br>
-Implementation of an Electron web app using JavaScript, HTML, CSS, bootstrap, Node.js and automation of parameterization processes using Bash Scripting, for the purpose of maritime surveillance systems, Hellenic Navy, Surveillance Systems Department of the Software Development and Maintenance Directorate.
+<b> 08/2021 – now: Front-end Developer </b> <br>
+Implementation of an Electron desktop app using JavaScript, HTML, CSS, bootstrap, Node.js and automation of parameterization processes using Bash Scripting, for the purpose of maritime surveillance systems, Hellenic Navy, Surveillance Systems Department of the Software Development and Maintenance Directorate.
 
 <hr>
 <h3>EDUCATION</h3> <br>
