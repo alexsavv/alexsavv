@@ -7,7 +7,6 @@
 <b>Gender</b>: Male <br>
 <b>Nationality</b>: Greek <br>
 <b>Marital Status</b>: Single <br>
-<b>Mobile</b>: (+30)6978419667 <br>
 <b>GitHub<b>: https://github.com/alexsavv <br>
 <b>LinkedIn<b>: https://www.linkedin.com/in/alexandros-savvopoulos-659973229 <br>
 <b>e-mail</b>: alexandros_savvopoulos@outlook.com <br>
