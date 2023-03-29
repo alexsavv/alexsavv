@@ -79,22 +79,3 @@ motivated and responsible, special attention to detail, willing to learn new ski
 
 Written and oral communications: Organising and communicating ideas/results effectively in oral
 presentations to small and large groups, writing reports
-
-<hr>
-
-<h3>HOBBIES AND INTERESTS</h3> <br>
- Basketball <br>
- Swimming <br>
- Football <br>
-
-<hr>
-<h3>REFERENCES</h3>
-<b> Captain (E) Stylianos Kosenakis HN </b> <br>
-Executive Officer in the Centre of Automation Combat Systems, Hellenic Navy <br>
-
-<br>
-
-<b> Dr. Sotiris Ioannidis </b> <br>
-Principal Researcher at the Institute of Computer Science, FORTH, Nikolaou Plastira 100, Vassilika <br>
-Vouton, P.O Box 1385, GR-70013 Heraklion, Crete, Greece, <br>
-Phone: +30 2810 391945, Fax: +30 2810 391601, E-Mail: sotiris@ics.forth.gr <br>
